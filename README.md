@@ -2,7 +2,7 @@
 
 # PaperQueryAI  
 
-Access the web app: [https://paperqueryai.streamlit.app](https://paperqueryai.streamlit.app)  
+
 
 PaperQueryAI is an AI-powered application that allows users to ask questions and receive answers backed by credible research papers. This tool is designed to provide trustworthy and reliable information, making it perfect for students, researchers, and professionals who value evidence-based answers.  
 
@@ -18,9 +18,9 @@ PaperQueryAI is an AI-powered application that allows users to ask questions and
 
 ## How It Works  
 
-1. Visit [https://paperqueryai.streamlit.app](https://paperqueryai.streamlit.app).  
-2. Type your question in the input box.  
-3. Receive an answer, complete with references to the relevant research papers.  
+
+1. Type your question in the input box.  
+2. Receive an answer, complete with references to the relevant research papers.  
 
 ---
 
@@ -50,15 +50,6 @@ To run the app locally, follow these steps:
    streamlit run app.py  
    ```  
 4. Open the app in your browser at `http://localhost:8501`.  
-
----
-
-## Contact  
-
-For any queries or suggestions, feel free to reach out:  
-
-- **Email**: [gargkeshav504@gmail.com](mailto:gargkeshav504@gmail.com)  
-- **LinkedIn**: [Keshav Garg](https://www.linkedin.com/in/keshav-garg-7760b1232/)  
 
 ---
 
